@@ -1,6 +1,14 @@
 # INF 554 Assignment 7
 
-### Team: Tianxin Zhao, Dongyu Li, Yiming Liu 
+#### Team: Tianxin Zhao, Dongyu Li, Yiming Liu 
+
+## Principle
+15 slides * 20 seconds per slide.
+http://www.pechakucha.org/
+
+## Elevator pitch
+The analysis of restaurant information that fetched from Yelp and Google map to help make data-driven decisions on restaurant location, category, price and so on. 
+
 ## Presentation Roadmap
 
 
