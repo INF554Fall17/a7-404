@@ -13,7 +13,7 @@
 7. Interactive Visualization - Geo Map    
 8. Visualization - Bar Chart  
 9. Visualization - Comibined Charts  
-10.Visualization - Final Results  
+10. Visualization - Final Results  
 11. Importance  
 12. Considerations  
 13. Technologies  
